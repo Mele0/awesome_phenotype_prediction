@@ -1,7 +1,7 @@
 # <p align="center"> Awesome Phenotype Prediction </p> 
 
 ## Contents
-- [Infroduction](#recommendations)
+- [Introduction](#recommendations)
 - [Papers](#papers)
 
 
