@@ -8,8 +8,12 @@ The phenotype of an organism is the result of interactions between the genotype 
 
 Our ability to predict phenotype is being revolutionised by advances in DNA sequencing technology. The cost of sequencing the DNA is decreasing rapidly, which means that it is now often low enough that in a single investigation many organisms may be genotyped, which opens up the possibility of using machine learning to learn predictive relationships between an organism’s genotype, environment, and phenotype. Such studies are often called genome-wide association studies (GWAS).
 
+<p align="center">
+  <img width="650" height="500" src="https://user-images.githubusercontent.com/90758727/162408525-5cb042f9-e708-4e55-87be-8c99e865f808.png">
+</p>
 
-  <img src="https://user-images.githubusercontent.com/90758727/162408525-5cb042f9-e708-4e55-87be-8c99e865f808.png" align="center" width="650" height="500">
+
+  
   
   [[link]](https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies)
 
