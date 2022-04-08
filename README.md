@@ -6,10 +6,10 @@
 
 The phenotype of an organism is the result of interactions between the genotype and the environment. What we want to do in this project is to predict an organism’s phenotype from knowledge of its genotype and environment. For example, human disease is a phenotype, and understanding its relation to genotype and environment is a central problem in medicine. On the other hand, crop yield and drought resistance are phenotypes, and if we are going to be able to continue to feed the world’s growing population, it is essential to better predict crop phenotypes from knowledge of their genotypes and environment. 
 
-Our ability to predict phenotype is being revolutionised by advances in DNA sequencing technology. The cost of sequencing the DNA is decreasing rapidly, which means that it is now often low enough that in a single investigation many organisms may be genotyped, which opens up the possibility of using machine learning to learn predictive relationships between an organism’s genotype, environment, and phenotype. Such studies are often called genome-wide association studies (GWAS).
+Our ability to predict phenotype is being revolutionised by advances in DNA sequencing technology. The cost of sequencing the DNA is decreasing rapidly, which means that it is now often low enough that in a single investigation many organisms may be genotyped, which opens up the possibility of using machine learning to learn predictive relationships between an organism’s genotype, environment, and phenotype. Such studies are often called genome-wide association studies (GWAS).__
 
 
-\
+
 
 <p align="center">
   <img width="650" height="500" src="https://user-images.githubusercontent.com/90758727/162408525-5cb042f9-e708-4e55-87be-8c99e865f808.png">
