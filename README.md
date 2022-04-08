@@ -29,7 +29,11 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 <p align="center">
 <a href="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies" align= "center">Reference</a>
 </p>
+<br />
 
+
+
+</br>
 ## <p align="center"> Challenges in the prediction </p>
 ### <p align = 'center'> Why an individual's phenotype cannot always be predicted from their genome and the environment they experience? </p>
 
