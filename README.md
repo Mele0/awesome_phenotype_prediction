@@ -67,16 +67,16 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
   - ## Phenotype Prediction
     - **Checked**
        1. deepManReg: Predict phenotypes from multi-modal data. [[paper]](https://www.nature.com/articles/s43588-021-00185-x) [[code]](https://github.com/daifengwanglab/deepManReg)
+       2. GWAS DCNN Soybean: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full) [[code]](https://github.com/kateyliu/DL_gwas)
     
     
     - **Unchecked**
       1. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3427-8
-      2. GWAS DCNN Soybean: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full) [[code]](https://github.com/kateyliu/DL_gwas)
-      4. https://link.springer.com/article/10.1007/s10994-019-05848-5
-      5. https://www.nature.com/articles/s41598-019-40561-2
-      6. https://www.nature.com/articles/s41467-021-25893-w
-      7. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04077-9
-      8. https://www.biorxiv.org/content/10.1101/2021.05.27.446033v1 
+      2. https://link.springer.com/article/10.1007/s10994-019-05848-5
+      3. https://www.nature.com/articles/s41598-019-40561-2
+      4. https://www.nature.com/articles/s41467-021-25893-w
+      5. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04077-9
+      6. https://www.biorxiv.org/content/10.1101/2021.05.27.446033v1 
     
   - ## PRS
     - **Checked**
