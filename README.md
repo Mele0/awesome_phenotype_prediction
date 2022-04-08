@@ -19,11 +19,10 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 </div>
 
 
-
-
-
-
+<p align="center">
 <a href="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies" align= "center">Reference</a>
+</p>
+
 
 
   
