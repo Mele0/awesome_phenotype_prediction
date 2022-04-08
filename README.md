@@ -105,6 +105,5 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 
 - ## Neural Networks
     - **Checked**
-      
-    - **Unchecked**
-      1. Neural Networks Models with Applications to Genetic Studies UK BIOBANK. [[paper]](https://www.proquest.com/openview/61637c22f25bb23a85eec1c4b157ce71/1?pq-origsite=gscholar&cbl=18750&diss=y) [[code]](https://github.com/szhang0629/FNN) 
+      1. Neural Networks Models with Applications to Genetic Studies UK BIOBANK. [[paper]](https://www.proquest.com/openview/61637c22f25bb23a85eec1c4b157ce71/1?pq-origsite=gscholar&cbl=18750&diss=y) [[code]](https://github.com/szhang0629/FNN)
+    - **Unchecked** 
