@@ -86,11 +86,16 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     - **Unchecked**
       1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456317/
       2. https://www.sciencedirect.com/science/article/abs/pii/S0168952521001451
+      3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5726434/
     
   - ## Multi-ethnicity // Cross-Ethnicity
     - **Checked**
       1. Cardiovascular disease risk prediction: [[paper]](https://www.nature.com/articles/s41746-020-00331-1)[[code]](https://github.com/atward424/ASCVD_ML/)
       2. Predict ethnicity using personal name Canada.[[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241239) [[code]](https://github.com/kaionwong/ethnicity-ml-prediction)
+      3. Transfer Learning: Multiethnic Polygenic Risk Prediction in Diverse Populations [[paper]](https://www.biorxiv.org/content/10.1101/2022.03.30.486333v1.full.pdf) [[code]](https://github.com/mxxptian/TL-Multi.gi)
+    - **Unchecked**
+      1. https://www.nature.com/articles/s41467-019-11845-y 
+     
     
   - ## Machine Learning
     - **Checked**
