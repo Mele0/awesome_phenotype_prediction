@@ -10,7 +10,10 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 
 <p align="center">
   <img width="650" height="500" src="https://user-images.githubusercontent.com/90758727/162408525-5cb042f9-e708-4e55-87be-8c99e865f808.png">
+  style='border: 4px solid #f00; margin: 20px; border-radius: 50px;'
 </p>
+
+
 
 <p align="center">
 <em>Manhattan plot</em>
