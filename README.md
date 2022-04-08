@@ -71,12 +71,12 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     
     - **Unchecked**
       1. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3427-8
-      2. https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full
-      3. https://link.springer.com/article/10.1007/s10994-019-05848-5
-      4. https://www.nature.com/articles/s41598-019-40561-2
-      5. https://www.nature.com/articles/s41467-021-25893-w
-      6. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04077-9
-      7. https://www.biorxiv.org/content/10.1101/2021.05.27.446033v1 
+      2. GWAS DCNN Soybean: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full) [[code]](https://github.com/kateyliu/DL_gwas)
+      4. https://link.springer.com/article/10.1007/s10994-019-05848-5
+      5. https://www.nature.com/articles/s41598-019-40561-2
+      6. https://www.nature.com/articles/s41467-021-25893-w
+      7. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04077-9
+      8. https://www.biorxiv.org/content/10.1101/2021.05.27.446033v1 
     
   - ## PRS
     - **Checked**
@@ -88,7 +88,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     
   - ## Multi-ethnicity // Cross-Ethnicity
     - **Checked**
-      1. https://www.nature.com/articles/s41746-020-00331-1
+      1. Cardiovascular disease risk prediction: [[paper]](https://www.nature.com/articles/s41746-020-00331-1)[[code]](https://github.com/atward424/ASCVD_ML/)
       2. Predict ethnicity using personal name Canada.[[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241239) [[code]](https://github.com/kaionwong/ethnicity-ml-prediction)
     
   - ## Machine Learning
