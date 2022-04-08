@@ -92,7 +92,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     - **Checked**
       1. Cardiovascular disease risk prediction: [[paper]](https://www.nature.com/articles/s41746-020-00331-1)[[code]](https://github.com/atward424/ASCVD_ML/)
       2. Predict ethnicity using personal name Canada.[[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241239) [[code]](https://github.com/kaionwong/ethnicity-ml-prediction)
-      3. Transfer Learning: Multiethnic Polygenic Risk Prediction in Diverse Populations [[paper]](https://www.biorxiv.org/content/10.1101/2022.03.30.486333v1.full.pdf) [[code]](https://github.com/mxxptian/TL-Multi.gi):warning:
+      3. Transfer Learning: Multiethnic Polygenic Risk Prediction in Diverse Populations [[paper]](https://www.biorxiv.org/content/10.1101/2022.03.30.486333v1.full.pdf) [[code]](https://github.com/mxxptian/TL-Multi.gi) :warning:
     - **Unchecked**
       1. https://www.nature.com/articles/s41467-019-11845-y 
      
@@ -107,4 +107,4 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     - **Checked**
       
     - **Unchecked**
-      1. https://www.proquest.com/openview/61637c22f25bb23a85eec1c4b157ce71/1?pq-origsite=gscholar&cbl=18750&diss=y  
+      1. Neural Networks Models with Applications to Genetic Studies UK BIOBANK. [[paper]](https://www.proquest.com/openview/61637c22f25bb23a85eec1c4b157ce71/1?pq-origsite=gscholar&cbl=18750&diss=y) [[code]](https://github.com/szhang0629/FNN) 
