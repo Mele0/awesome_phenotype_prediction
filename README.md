@@ -93,6 +93,6 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     
   - ## Machine Learning
     - **Checked**
-      1. https://www.nature.com/articles/s41746-020-00331-1  
+      1. Cardiovascular disease risk prediction: [[paper]](https://www.nature.com/articles/s41746-020-00331-1)[[code]](https://github.com/atward424/ASCVD_ML/)  
     - **Unchecked**
       1. https://pubmed.ncbi.nlm.nih.gov/28794054/ 
