@@ -89,9 +89,8 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
   - ## Multi-ethnicity // Cross-Ethnicity
     - **Checked**
       1. https://www.nature.com/articles/s41746-020-00331-1
-    - **Unchecked**
-      1. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241239
-
+      2.  [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241239) [[code]](https://github.com/kaionwong/ethnicity-ml-prediction)
+    
   - ## Machine Learning
     - **Checked**
       1. https://www.nature.com/articles/s41746-020-00331-1  
