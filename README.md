@@ -10,12 +10,13 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 
 <p align="center">
   <img width="650" height="500" src="https://user-images.githubusercontent.com/90758727/162408525-5cb042f9-e708-4e55-87be-8c99e865f808.png">
+  
   <em>Manhattan plot</em>
 </p>
 
-<p align="center">
-  [[link]](https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies)
-</p>
+<a href="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies" style="float: right;">Reference</a>
+
+
   
   
   
