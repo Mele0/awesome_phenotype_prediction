@@ -10,7 +10,7 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 
 
 
-  <img align="center" width="200" src="![image](https://user-images.githubusercontent.com/90758727/162407856-0a7016a5-1df8-4a78-b9eb-d1f1848524d9.jpeg)"> </img>
+  ![image](https://user-images.githubusercontent.com/90758727/162408525-5cb042f9-e708-4e55-87be-8c99e865f808.png)
   [[link]](https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies)
 
 
