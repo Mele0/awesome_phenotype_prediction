@@ -80,11 +80,11 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     
   - ## PRS
     - **Checked**
+      1. Guide to PRS analyses: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612115/)
+      2. Inferred relatives: Exploiting phenotypes from inferred relatives. [[paper]](https://www.nature.com/articles/s41467-020-16829-x)
+      3. Non-linearities PRS. [[paper]](https://www.medrxiv.org/content/10.1101/2021.07.09.21260288v1.full)
     - **Unchecked**
       1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456317/
-      2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612115/
-      3. https://www.nature.com/articles/s41467-020-16829-x
-      4. https://www.medrxiv.org/content/10.1101/2021.07.09.21260288v1.full
     
   - ## Multi-ethnicity // Cross-Ethnicity
     - **Checked**
