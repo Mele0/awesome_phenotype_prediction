@@ -38,7 +38,7 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 ## <p align="center"> Challenges in the prediction </p>
 ### <p align = 'center'> Why an individual's phenotype cannot always be predicted from their genome and the environment they experience? </p>
 
-One of the main things we ask ourselves in phenotype prediction is to what extent is the knowledge about an individual's genotype, together with information about the environment that they have experienced, sufficient to predict phenotypic variation? 
+One of the main things we ask ourselves in phenotype prediction is to what extent is the knowledge about an individual's genotype, together with information about the environment that they have experienced, sufficient to predict phenotypic variation.
 
 In the referenced paper, they argue that, although the 'typical' phenotypic outcome of an individual's genome can be predicted, it is much more difficult to predict the actual outcome for a particular individual. One of the three main reasons for this are:
 1. The outcome of mutations can be influenced by random stochastic processes. 
