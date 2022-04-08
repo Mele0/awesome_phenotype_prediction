@@ -1,5 +1,9 @@
 # <p align="center"> Awesome Phenotype Prediction </p> 
 
+## Contents
+- [Infroduction](#recommendations)
+- [Papers](#papers)
+
 
 # Introduction
 ## <p align="center"> What is phenotype prediction? </p>
