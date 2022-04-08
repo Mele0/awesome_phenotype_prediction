@@ -29,6 +29,13 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 </p>
 
 
+<p align = 'center'> Why an individual's phenotype cannot always be predicted from their genome and the environment they experience? </p>
+
+
+<p align="center">
+<a href="https://www.biorxiv.org/content/10.1101/2021.05.27.446033v1" align= "center">Reference</a>
+</p>
+
 
   
   
@@ -71,8 +78,3 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
       1. https://www.nature.com/articles/s41746-020-00331-1  
     - **Unchecked**
       1. https://pubmed.ncbi.nlm.nih.gov/28794054/ 
-  
-# Extra
-<p align = 'center'> Why the phenotype of an individual cannot always be predicted from their genome sequence and the environment that they experience? </p>
-<p align = 'center'> https://www.biorxiv.org/content/10.1101/2021.05.27.446033v1  </p>
-  
