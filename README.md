@@ -85,6 +85,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
       3. Non-linearities PRS. [[paper]](https://www.medrxiv.org/content/10.1101/2021.07.09.21260288v1.full)
     - **Unchecked**
       1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456317/
+      2. https://www.sciencedirect.com/science/article/abs/pii/S0168952521001451
     
   - ## Multi-ethnicity // Cross-Ethnicity
     - **Checked**
@@ -96,3 +97,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
       1. Cardiovascular disease risk prediction: [[paper]](https://www.nature.com/articles/s41746-020-00331-1)[[code]](https://github.com/atward424/ASCVD_ML/)  
     - **Unchecked**
       1. https://pubmed.ncbi.nlm.nih.gov/28794054/ 
+  - ## Neural Networks
+      1. https://pubmed.ncbi.nlm.nih.gov/28794054/ 
+      1. https://www.proquest.com/openview/61637c22f25bb23a85eec1c4b157ce71/1?pq-origsite=gscholar&cbl=18750&diss=y 
+      2.  
