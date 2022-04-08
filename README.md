@@ -1,5 +1,5 @@
 # <p align="center"> Awesome Phenotype Prediction </p> 
----
+
 
 # Introduction
 ## What is phenotype prediction?
