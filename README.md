@@ -2,7 +2,7 @@
 
 
 # Introduction
-## What is phenotype prediction?
+## <p align="center"> What is phenotype prediction? </p>
  
 Phenotype Prediction consists in predicting an organism’s phenotype from the knowledge of its genotype and its environment. 
 
@@ -30,7 +30,7 @@ Our ability to predict phenotype is being revolutionised by advances in DNA sequ
 <a href="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies" align= "center">Reference</a>
 </p>
 
-## Challenges in the prediction
+## <p align="center"> Challenges in the prediction </p>
 ### <p align = 'center'> Why an individual's phenotype cannot always be predicted from their genome and the environment they experience? </p>
 
 One of the main things we ask ourselves in phenotype prediction is to what extent is the knowledge about an individual's genotype, together with information about the environment that they have experienced, sufficient to predict phenotypic variation? 
