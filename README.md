@@ -114,4 +114,4 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
     
 - ## Extra
    - **Not sure**
-     1. https://www.nature.com/articles/s41467-019-11845-y 
+     1. Lupus erythematosus: [[paper]](https://www.nature.com/articles/s41467-019-11845-y) 
