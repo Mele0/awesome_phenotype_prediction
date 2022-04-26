@@ -66,8 +66,10 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 
   - ## Phenotype Prediction
     - **Checked**
-       1. deepManReg: Predict phenotypes from multi-modal data. [[paper]](https://www.nature.com/articles/s43588-021-00185-x) [[code]](https://github.com/daifengwanglab/deepManReg)
-       2. GWAS DCNN Soybean: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full) [[code]](https://github.com/kateyliu/DL_gwas)
+       1. SeqBreed: Evaluate genomic prediction in complex scenarios [[code]](https://github.com/miguelperezenciso/SeqBreed/tree/1fe862577c678c472f50e7544c16944dc987bf82) [[paper]](https://www.biorxiv.org/content/10.1101/748624v1) :warning:
+       2. deepManReg: Predict phenotypes from multi-modal data. [[paper]](https://www.nature.com/articles/s43588-021-00185-x) [[code]](https://github.com/daifengwanglab/deepManReg)
+       3. GWAS DCNN Soybean: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full) [[code]](https://github.com/kateyliu/DL_gwas)
+       4. MKLMM: Multikernel linear mixed models for complex phenotype prediction [[code]](https://github.com/omerwe/MKLMM)[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937570/) 
     
     
     - **Unchecked**
