@@ -113,10 +113,10 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
       1. Neural Networks Models with Applications to Genetic Studies UK BIOBANK. [[paper]](https://www.proquest.com/openview/61637c22f25bb23a85eec1c4b157ce71/1?pq-origsite=gscholar&cbl=18750&diss=y) [[code]](https://github.com/szhang0629/FNN)
       
     - **Unchecked** 
-    
-- ## Computational 
+- ## Computational
     - **Checked**
-     1. Deep Learning on Computational-Resource-Limited Platforms (DeepX): [[paper]](https://www.hindawi.com/journals/misy/2020/8454327/)
+      1. Deep Learning on Computational-Resource-Limited Platforms (DeepX): [[paper]](https://www.hindawi.com/journals/misy/2020/8454327/)
+      
 - ## Extra
    - **Not sure**
      1. Lupus erythematosus: [[paper]](https://www.nature.com/articles/s41467-019-11845-y) 
