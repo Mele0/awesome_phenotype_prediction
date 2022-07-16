@@ -114,6 +114,10 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
       
     - **Unchecked** 
     
+- ## Computational 
+    - **Checked**
+     1. Deep Learning on Computational-Resource-Limited Platforms (DeepX): [[paper]](https://www.hindawi.com/journals/misy/2020/8454327/)
 - ## Extra
    - **Not sure**
      1. Lupus erythematosus: [[paper]](https://www.nature.com/articles/s41467-019-11845-y) 
+
