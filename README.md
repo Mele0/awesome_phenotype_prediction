@@ -71,6 +71,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
        3. GWAS DCNN Soybean: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full) [[code]](https://github.com/kateyliu/DL_gwas)
        4. MKLMM: Multikernel linear mixed models for complex phenotype prediction [[code]](https://github.com/omerwe/MKLMM)[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937570/) 
        5. Random Matrix: Applications Of Random Matrix Theory In Statistics And Machine Learning [[paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=5932&context=edissertations)
+       6. PCA Number of Components: Selecting the number of components in PCA via random signflips [[paper]](https://arxiv.org/abs/2012.02985)
     
     
     - **Unchecked**
