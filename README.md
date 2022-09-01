@@ -70,7 +70,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
        2. deepManReg: Predict phenotypes from multi-modal data. [[paper]](https://www.nature.com/articles/s43588-021-00185-x) [[code]](https://github.com/daifengwanglab/deepManReg)
        3. GWAS DCNN Soybean: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01091/full) [[code]](https://github.com/kateyliu/DL_gwas)
        4. MKLMM: Multikernel linear mixed models for complex phenotype prediction [[code]](https://github.com/omerwe/MKLMM)[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937570/) 
-       5. Random Matrix: Applications Of Random Matrix Theory In Statistics And Machine Learning [[paper]] (https://repository.upenn.edu/cgi/viewcontent.cgi?article=5932&context=edissertations)
+       5. Random Matrix: Applications Of Random Matrix Theory In Statistics And Machine Learning [[paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=5932&context=edissertations)
     
     
     - **Unchecked**
