@@ -87,6 +87,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
       1. Guide to PRS analyses: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612115/) [[code]](https://choishingwan.github.io/PRS-Tutorial/) [[reference to our tutorials]](https://github.com/AI-sandbox/Getting-Started/blob/main/video_tutorial.md)
       2. Inferred relatives: Exploiting phenotypes from inferred relatives. [[paper]](https://www.nature.com/articles/s41467-020-16829-x) [[code]](https://github.com/bulik/ldsc)
       3. Non-linearities PRS. [[paper]](https://www.medrxiv.org/content/10.1101/2021.07.09.21260288v1.full)
+      4. Improve gene score prediction. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5627249/)
  
     - **Unchecked**
       1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456317/
