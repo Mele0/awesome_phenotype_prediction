@@ -85,7 +85,8 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 
 # Papers
   - ## Feature Selection
-    - Choosing SNPs with Feature Selection [[paper]](file:///Users/mele/Downloads/Choosing_SNPs_using_feature_selection.pdf)
+    - **Checked**
+       1. Choosing SNPs with Feature Selection: [[paper]](https://pubmed.ncbi.nlm.nih.gov/16819782/)
 
   - ## Phenotype Prediction
     - **Checked**
