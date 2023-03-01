@@ -60,7 +60,8 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 ---
 # Concepts
   - ## Wrapper vs Filter Techniques
-  - Definition: Filter algorithms are general preprocessing algorithms that do not assume the use of a specific classification method. Wrapper algorithms, in contrast, “wrap” the feature selection around a specific classifier and select a subset of features based on the classifier’s accuracy using cross-validation.
+  - Filter algorithms: General preprocessing algorithms that do not assume the use of a specific classification method.
+  - Wrapper algorithms: They “wrap” the feature selection around a specific classifier and select a subset of features based on the classifier’s accuracy using cross-validation.
 
   - ## Sparse Matrix
     - Definition: A sparse matrix is a special case of a matrix in which the number of zero elements is much higher than the number of non-zero elements.
