@@ -59,9 +59,15 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 
 ---
 # Concepts
+  - ## Online Sparse Feature Selection
+    - Definition: Online sparse feature selection is a machine learning technique that allows you to select the most important features in your data as you receive new data over time.
+    - Simpler terms: In simpler terms, let's say you have a dataset with a lot of features (or variables) that you think might be important for making predictions about some outcome. With online sparse feature selection, you can feed in your data one example at a time and the algorithm will automatically decide which features are most useful for making accurate predictions.
+
   - ## The Markov blanket
     - Definition: The Markov blanket of a node in a Bayesian network is a set of nodes that contains all the information you need to know in order to predict the value of that node, and nothing more. Think of a node as a person, and the other nodes in the network as their friends. The Markov blanket of a person is the set of their friends who know everything about them that is relevant to predicting their behavior or decision-making, but nothing more. By knowing only the information about the person contained in their Markov blanket, you can predict their behavior with a high degree of accuracy.
+
     - Usage: In ML, it's used for feature selection and causal inference, as it helps identify which variables are most relevant for predicting the value of a particular variable, and which variables are causally related to each other.
+  
 
 ---
 
