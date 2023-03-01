@@ -2,7 +2,7 @@
 
 ## Contents
 - [Introduction](#introduction)
-- [Important Definitions/Concepts] (#Concepts)
+- [Important Definitions/Concepts] (#concepts)
 - [Papers](#papers)
 
 
