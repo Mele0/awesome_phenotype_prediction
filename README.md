@@ -2,6 +2,7 @@
 
 ## Contents
 - [Introduction](#introduction)
+- [Important Definitions/Concepts] (#Concepts)
 - [Papers](#papers)
 
 
@@ -56,8 +57,8 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 </p>
 
 
-  
-  
+---
+# Concepts
   
 
 ---
