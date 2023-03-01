@@ -59,7 +59,9 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 
 ---
 # Concepts
-  
+  - ## The Markov blanket
+    - Definition: The Markov blanket of a node in a Bayesian network is a set of nodes that contains all the information you need to know in order to predict the value of that node, and nothing more. Think of a node as a person, and the other nodes in the network as their friends. The Markov blanket of a person is the set of their friends who know everything about them that is relevant to predicting their behavior or decision-making, but nothing more. By knowing only the information about the person contained in their Markov blanket, you can predict their behavior with a high degree of accuracy.
+    - Usage: In ML, it's used for feature selection and causal inference, as it helps identify which variables are most relevant for predicting the value of a particular variable, and which variables are causally related to each other.
 
 ---
 
