@@ -59,8 +59,14 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 
 ---
 # Concepts
+  - ## Sparse Matrix
+    - Definition: A sparse matrix is a special case of a matrix in which the number of zero elements is much higher than the number of non-zero elements.
+
+    - Usage: By using spicy's library, we can use, for example, 'csr_matrix' (compressed sparse row) to the original dataset. By doing this, if someone has a dataset with a large quantity of zeros, compared to the other possible values, the 'csr_matrix' will only keep the non-zero positions and value from the dataset. By doing this, it will drop significantly the memory consumption of the dataset and the execution time. It's important to mention the fact that for the model, it will be the same having a 'csr_matrix' or the original dataset. The output will be the same (same results).
+    
   - ## Online Sparse Feature Selection
     - Definition: Online sparse feature selection is a machine learning technique that allows you to select the most important features in your data as you receive new data over time.
+
     - Simpler terms: In simpler terms, let's say you have a dataset with a lot of features (or variables) that you think might be important for making predictions about some outcome. With online sparse feature selection, you can feed in your data one example at a time and the algorithm will automatically decide which features are most useful for making accurate predictions.
 
   - ## The Markov blanket
