@@ -87,6 +87,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
   - ## Feature Selection
     - **Checked**
        1. Choosing SNPs with Feature Selection: [[paper]](https://pubmed.ncbi.nlm.nih.gov/16819782/)
+       2. Univariate Feature Selection: [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2021.611506/full)
 
   - ## Phenotype Prediction
     - **Checked**
