@@ -147,7 +147,7 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
       1. Deep Learning on Computational-Resource-Limited Platforms (DeepX): [[paper]](https://www.hindawi.com/journals/misy/2020/8454327/)
 - ## Haplotypes
    - **Checked**
-      1. Allele combinations along a chromosome for a gene to provide more info than a single SNP:[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2979315/)
+      1. Allele combinations along a chromosome for a gene to provide more info than a single SNP: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2979315/)
 - ## Extra
    - **Not sure**
      1. Lupus erythematosus: [[paper]](https://www.nature.com/articles/s41467-019-11845-y) 
