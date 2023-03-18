@@ -145,8 +145,14 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 - ## Computational
     - **Checked**
       1. Deep Learning on Computational-Resource-Limited Platforms (DeepX): [[paper]](https://www.hindawi.com/journals/misy/2020/8454327/)
-- ## Haplotypes
-   - **Checked**
+      
+- ## Gene-to-Gene Interactions
+   - **Epistasis**
+      1. A computationally fast measure of epistasis for 2 SNPs and a categorical phenotype: [[paper]](https://pubmed.ncbi.nlm.nih.gov/21097157/)
+
+   - **Genetic Association**
+      1. Prioritize and Select SNPs for Association Studies with Multi-Stage Designs: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326652/)
+   - **Haplotypes**
       1. Allele combinations along a chromosome for a gene to provide more info than a single SNP: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2979315/)
       2. The complex interplay among factors that influence allelic association (Zondervan and Cardon 2004): [[paper]](https://pubmed.ncbi.nlm.nih.gov/14735120/)
 <p>The two main approaches to haplotype construction are either choosing SNPs within (intra) or across (inter) LD bins, thus producing a higher-order haplotype. The intra-LD bin haplotypes are a set of alleles together on the same chromosome surrounded by recombination hotspots defined by a correlation threshold. Higher-order haplotypes use tagging SNPs (tSNP) to capture all variation at a given LD level. The crucial subset of markers to type would be those that distinguish one haplotype from another (Zondervan and Cardon 2004). Also, many methods use windowing strategies which test sets of perhaps contiguous SNPs.</p>
