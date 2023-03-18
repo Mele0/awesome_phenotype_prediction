@@ -148,9 +148,4 @@ Taken together, they mean that, in many cases, the genotypes of individuals and 
 - ## Haplotypes
    - **Checked**
       1. Allele combinations along a chromosome for a gene to provide more info than a single SNP: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2979315/)
-<p>The two main approaches to haplotype construction are either choosing SNPs within (intra) or across (inter) LD bins, thus producing a higher-order haplotype. The intra-LD bin haplotypes are a set of alleles together on the same chromosome surrounded by recombination hotspots defined by a correlation threshold. Higher-order haplotypes use tagging SNPs (tSNP) to capture all variation at a given LD level. The crucial subset of markers to type would be those that distinguish one haplotype from another (Zondervan and Cardon, 2004). Also, many methods use windowing strategies which test sets of perhaps contiguous SNPs.</p>
-- ## Extra
-   - **Not sure**
-     1. Lupus erythematosus: [[paper]](https://www.nature.com/articles/s41467-019-11845-y) 
-     2. Presentation about the problem: [[paper]](https://www.slideshare.net/patriciafrancislyon/predicting-phenotype-from-genotype-with-machine-learning)
-
+<p>The two main approaches to haplotype construction are either choosing SNPs within (intra) or across (inter) LD bins, thus producing a higher-order haplotype. The intra-LD bin haplotypes are a set of alleles together on the same chromosome surrounded by recombination hotspots defined by a correlation threshold. Higher-order haplotypes use tagging SNPs (tSNP) to capture all variation at a given LD level. The crucial subset of markers to type would be those that distinguish one haplotype from another (Zondervan and Cardon, 2004). Also, many methods use windowing strategies which test sets of perhaps contiguous SNPs. </p>
