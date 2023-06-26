@@ -9,36 +9,34 @@
 # Introduction
 ## <p align="center"> What is phenotype prediction? </p>
  
-Phenotype Prediction consists in predicting an organism’s phenotype from the knowledge of its genotype and its environment. 
+Phenotype Prediction involves the task of predicting an organism's phenotype based on its genotype and environmental factors.
 
-For example, a human disease is a phenotype, and understanding its relation to genotype and environment is a central problem in medicine. On the other hand, crop yield and drought resistance are phenotypes, and if we are going to be able to continue to feed the world’s growing population, it is essential to better predict crop phenotypes from knowledge of their genotypes and environment. 
+In various domains, understanding the relationship between genotype, environment, and phenotype holds great significance. One notable example is human diseases, where unraveling the interplay between genotype and environment is a central challenge in the field of medicine. Similarly, in agriculture, predicting phenotypes like crop yield and drought resistance is crucial for sustaining the growing global population.
 
-Our ability to predict phenotype is being revolutionised by advances in DNA sequencing technology. The cost of sequencing the DNA is decreasing rapidly, which means that it is now often low enough that in a single investigation many organisms may be genotyped, which opens up the possibility of using machine learning to learn predictive relationships between an organism’s genotype, environment, and phenotype. Such studies are often called genome-wide association studies (GWAS).
+The advent of DNA sequencing technology has sparked a revolution in our ability to predict phenotypes. The declining cost of DNA sequencing has made it more accessible, enabling the genotyping of numerous organisms in a single investigation. This advancement paves the way for employing machine learning techniques to uncover predictive associations between an organism's genotype, environment, and phenotype. These comprehensive studies are often referred to as genome-wide association studies (GWAS).
+
+The rapid progress in DNA sequencing technology not only enhances our understanding of the complex relationship between genes, environment, and traits but also opens up new avenues for developing predictive models and advancing phenotype prediction research."
+
+This revised text aims to provide a clearer and more concise explanation of phenotype prediction, emphasizing its importance in various domains and highlighting the role of DNA sequencing technology in advancing this field of research.
 <br />
 
-
-
-</br>
+<br/>
 
 <p align="center">
-  <img width="650" height="500" src="https://user-images.githubusercontent.com/90758727/162408525-5cb042f9-e708-4e55-87be-8c99e865f808.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Manhattan_Plot.png" width="800">
 </p>
 
 <div style="margin-top: 0px;">
-<p align="center">
-<em>Manhattan plot</em>
-</p>
+  <p align="center">
+    <em>Figure 1: Manhattan plot</em>
+  </p>
 </div>
 
-
 <p align="center">
-<a href="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies" align= "center">Reference</a>
+  <a href="https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies" align="center">Reference</a>
 </p>
-<br />
 
-
-
-</br>
+<br/>
 
 ## <p align="center"> Challenges in the prediction </p>
 ### <p align = 'center'> Why an individual's phenotype cannot always be predicted from their genome and the environment they experience? </p>
